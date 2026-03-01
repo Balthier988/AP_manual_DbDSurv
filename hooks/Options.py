@@ -29,7 +29,7 @@ class SurvTotalPresent(Range):
     """How many Survivors do you enabled in your multiworld."""
     display_name = "Number of Survivors Present"
     range_start = 1
-    range_end = 49
+    range_end = 52
     default = 10
 
 class SurvTotalRequired(Range):
@@ -37,7 +37,7 @@ class SurvTotalRequired(Range):
     Need to be equal to or have less than SurvTotalPresent."""
     display_name = "Win with Required Survivors"
     range_start = 1
-    range_end = 49
+    range_end = 52
     default = 10
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
