@@ -1,0 +1,2646 @@
+[
+    {
+        "name": "Victory - Bond",
+        "category": [
+            "Perk",
+            "Dwight"
+        ],
+        "requires": "|Bond|"
+    },
+    {
+        "name": "Victory - Prove Thyself",
+        "category": [
+            "Perk",
+            "Dwight"
+        ],
+        "requires": "|Prove Thyself|"
+    },
+    {
+        "name": "Victory - Leader",
+        "category": [
+            "Perk",
+            "Dwight"
+        ],
+        "requires": "|Leader|"
+    },
+    {
+        "name": "Victory - Dwight Fairfield",
+        "category": [
+            "Surv",
+            "Dwight"
+        ],
+        "requires": "|Dwight Fairfield|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Dwight Fairfield",
+        "category": [
+            "Dwight",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Dwight Fairfield Victory Token"
+        ],
+        "requires": "|Dwight Fairfield|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Meg Thomas",
+        "category": [
+            "Surv",
+            "Meg"
+        ],
+        "requires": "|Meg Thomas|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Meg Thomas",
+        "category": [
+            "Meg",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Meg Thomas Victory Token"
+        ],
+        "requires": "|Meg Thomas|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Quick & Quiet",
+        "category": [
+            "Perk",
+            "Meg"
+        ],
+        "requires": "|Quick & Quiet|"
+    },
+    {
+        "name": "Victory - Sprint Burst",
+        "category": [
+            "Perk",
+            "Meg"
+        ],
+        "requires": "|Sprint Burst|"
+    },
+    {
+        "name": "Victory - Adrenaline",
+        "category": [
+            "Perk",
+            "Meg"
+        ],
+        "requires": "|Adrenaline|"
+    },
+    {
+        "name": "Victory - Claudette Morel",
+        "category": [
+            "Surv",
+            "Claudette"
+        ],
+        "requires": "|Claudette Morel|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Claudette Morel",
+        "category": [
+            "Claudette",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Claudette Morel Victory Token"
+        ],
+        "requires": "|Claudette Morel|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Botany Knowledge",
+        "category": [
+            "Perk",
+            "Claudette"
+        ],
+        "requires": "|Botany Knowledge|"
+    },
+    {
+        "name": "Victory - Empathy",
+        "category": [
+            "Perk",
+            "Claudette"
+        ],
+        "requires": "|Empathy|"
+    },
+    {
+        "name": "Victory - Self Care",
+        "category": [
+            "Perk",
+            "Claudette"
+        ],
+        "requires": "|Self Care|"
+    },
+    {
+        "name": "Victory - Jake Park",
+        "category": [
+            "Surv",
+            "Jake"
+        ],
+        "requires": "|Jake Park|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Jake Park",
+        "category": [
+            "Jake",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Jake Park Victory Token"
+        ],
+        "requires": "|Jake Park|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Saboteur",
+        "category": [
+            "Perk",
+            "Jake"
+        ],
+        "requires": "|Saboteur|"
+    },
+    {
+        "name": "Victory - Iron Will",
+        "category": [
+            "Perk",
+            "Jake"
+        ],
+        "requires": "|Iron Will|"
+    },
+    {
+        "name": "Victory - Calm Spirit",
+        "category": [
+            "Perk",
+            "Jake"
+        ],
+        "requires": "|Calm Spirit|"
+    },
+    {
+        "name": "Victory - Nea Karlsson",
+        "category": [
+            "Surv",
+            "Nea"
+        ],
+        "requires": "|Nea Karlsson|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Nea Karlsson",
+        "category": [
+            "Nea",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Nea Karlsson Victory Token"
+        ],
+        "requires": "|Nea Karlsson|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Balanced Landing",
+        "category": [
+            "Perk",
+            "Nea"
+        ],
+        "requires": "|Balanced Landing|"
+    },
+    {
+        "name": "Victory - Urban Evasion",
+        "victory": false,
+        "category": [
+            "Perk",
+            "Nea"
+        ],
+        "requires": "|Urban Evasion|"
+    },
+    {
+        "name": "Victory - Streetwise",
+        "victory": false,
+        "category": [
+            "Perk",
+            "Nea"
+        ],
+        "requires": "|Streetwise|"
+    },
+    {
+        "name": "Victory - William Overbeck",
+        "category": [
+            "Surv",
+            "Bill"
+        ],
+        "requires": "|William Overbeck|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - William Overbeck",
+        "category": [
+            "Bill",
+            "Victory Token"
+        ],
+        "place_item": [
+            "William Overbeck Victory Token"
+        ],
+        "requires": "|William Overbeck|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Left Behind",
+        "category": [
+            "Perk",
+            "Bill"
+        ],
+        "requires": "|Left Behind|"
+    },
+    {
+        "name": "Victory - Borrowed Time",
+        "category": [
+            "Perk",
+            "Bill"
+        ],
+        "requires": "|Borrowed Time|"
+    },
+    {
+        "name": "Victory - Unbreakable",
+        "category": [
+            "Perk",
+            "Bill"
+        ],
+        "requires": "|Unbreakable|"
+    },
+    {
+        "name": "Victory - David King",
+        "category": [
+            "Surv",
+            "David"
+        ],
+        "requires": "|David King|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - David King",
+        "category": [
+            "David",
+            "Victory Token"
+        ],
+        "place_item": [
+            "David King Victory Token"
+        ],
+        "requires": "|David King|",
+        "victory": false
+    },
+    {
+        "name": "Victory - We're Gonna Live Forever",
+        "category": [
+            "Perk",
+            "David"
+        ],
+        "requires": "|We're Gonna Live Forever|"
+    },
+    {
+        "name": "Victory - Dead Hard",
+        "category": [
+            "Perk",
+            "David"
+        ],
+        "requires": "|Dead Hard|"
+    },
+    {
+        "name": "Victory - No Mither",
+        "category": [
+            "Perk",
+            "David"
+        ],
+        "requires": "|No Mither|"
+    },
+    {
+        "name": "Victory - Laurie Strode",
+        "category": [
+            "Surv",
+            "Laurie"
+        ],
+        "requires": "|Laurie Strode|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Laurie Strode",
+        "category": [
+            "Laurie",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Laurie Strode Victory Token"
+        ],
+        "requires": "|Laurie Strode|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Sole Survivor",
+        "category": [
+            "Perk",
+            "Laurie"
+        ],
+        "requires": "|Sole Survivor|"
+    },
+    {
+        "name": "Victory - Object of Obsession",
+        "category": [
+            "Perk",
+            "Laurie"
+        ],
+        "requires": "|Object of Obsession|"
+    },
+    {
+        "name": "Victory - Decisive Strike",
+        "category": [
+            "Perk",
+            "Laurie"
+        ],
+        "requires": "|Decisive Strike|"
+    },
+    {
+        "name": "Victory - Ace Visconti",
+        "category": [
+            "Surv",
+            "Ace"
+        ],
+        "requires": "|Ace Visconti|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Ace Visconti",
+        "category": [
+            "Ace",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Ace Visconti Victory Token"
+        ],
+        "requires": "|Ace Visconti|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Open Handed",
+        "category": [
+            "Perk",
+            "Ace"
+        ],
+        "requires": "|Open Handed|"
+    },
+    {
+        "name": "Victory - Up the Ante",
+        "category": [
+            "Perk",
+            "Ace"
+        ],
+        "requires": "|Up the Ante|"
+    },
+    {
+        "name": "Victory - Ace in the Hole",
+        "category": [
+            "Perk",
+            "Ace"
+        ],
+        "requires": "|Ace in the Hole|"
+    },
+    {
+        "name": "Victory - Feng Min",
+        "category": [
+            "Surv",
+            "Feng"
+        ],
+        "requires": "|Feng Min|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Feng Min",
+        "category": [
+            "Feng",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Feng Min Victory Token"
+        ],
+        "requires": "|Feng Min|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Technician",
+        "category": [
+            "Perk",
+            "Feng"
+        ],
+        "requires": "|Technician|"
+    },
+    {
+        "name": "Victory - Lithe",
+        "category": [
+            "Perk",
+            "Feng"
+        ],
+        "requires": "|Lithe|"
+    },
+    {
+        "name": "Victory - Alert",
+        "category": [
+            "Perk",
+            "Feng"
+        ],
+        "requires": "|Alert|"
+    },
+    {
+        "name": "Victory - Wake Up !",
+        "category": [
+            "Perk",
+            "Quentin"
+        ],
+        "requires": "|Wake Up !|"
+    },
+    {
+        "name": "Victory - Pharmacy",
+        "category": [
+            "Perk",
+            "Quentin"
+        ],
+        "requires": "|Pharmacy|"
+    },
+    {
+        "name": "Victory - Vigil",
+        "category": [
+            "Perk",
+            "Quentin"
+        ],
+        "requires": "|Vigil|"
+    },
+    {
+        "name": "Victory - Quentin Smith",
+        "category": [
+            "Surv",
+            "Quentin"
+        ],
+        "requires": "|Quentin Smith|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Quentin Smith",
+        "category": [
+            "Quentin",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Quentin Smith Victory Token"
+        ],
+        "requires": "|Quentin Smith|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Tenacity",
+        "category": [
+            "Perk",
+            "Tapp"
+        ],
+        "requires": "|Tenacity|"
+    },
+    {
+        "name": "Victory - Detective's Hunch",
+        "category": [
+            "Perk",
+            "Tapp"
+        ],
+        "requires": "|Detective's Hunch|"
+    },
+    {
+        "name": "Victory - Stake Out",
+        "category": [
+            "Perk",
+            "Tapp"
+        ],
+        "requires": "|Stake Out|"
+    },
+    {
+        "name": "Victory - Detective Tapp",
+        "category": [
+            "Surv",
+            "Tapp"
+        ],
+        "requires": "|Detective Tapp|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Detective Tapp",
+        "category": [
+            "Tapp",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Detective Tapp Victory Token"
+        ],
+        "requires": "|Detective Tapp|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Kate Denson",
+        "category": [
+            "Surv",
+            "Kate"
+        ],
+        "requires": "|Kate Denson|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Kate Denson",
+        "category": [
+            "Kate",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Kate Denson Victory Token"
+        ],
+        "requires": "|Kate Denson|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Boil Over",
+        "category": [
+            "Perk",
+            "Kate"
+        ],
+        "requires": "|Boil Over|"
+    },
+    {
+        "name": "Victory - Dance with me",
+        "category": [
+            "Perk",
+            "Kate"
+        ],
+        "requires": "|Dance with me|"
+    },
+    {
+        "name": "Victory - Windows of Opportunity",
+        "category": [
+            "Perk",
+            "Kate"
+        ],
+        "requires": "|Windows of Opportunity|"
+    },
+    {
+        "name": "Victory - Adam Francis",
+        "category": [
+            "Surv",
+            "Adam"
+        ],
+        "requires": "|Adam Francis|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Adam Francis",
+        "category": [
+            "Adam",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Adam Francis Victory Token"
+        ],
+        "requires": "|Adam Francis|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Diversion",
+        "category": [
+            "Perk",
+            "Adam"
+        ],
+        "requires": "|Diversion|"
+    },
+    {
+        "name": "Victory - Deliverance",
+        "category": [
+            "Perk",
+            "Adam"
+        ],
+        "requires": "|Deliverance|"
+    },
+    {
+        "name": "Victory - Autodidact",
+        "category": [
+            "Perk",
+            "Adam"
+        ],
+        "requires": "|Autodidact|"
+    },
+    {
+        "name": "Victory - Jeff Johansen",
+        "category": [
+            "Surv",
+            "Jeff"
+        ],
+        "requires": "|Jeff Johansen|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Jeff Johansen",
+        "category": [
+            "Jeff",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Jeff Johansen Victory Token"
+        ],
+        "requires": "|Jeff Johansen|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Breakdown",
+        "category": [
+            "Perk",
+            "Jeff"
+        ],
+        "requires": "|Breakdown|"
+    },
+    {
+        "name": "Victory - Aftercare",
+        "category": [
+            "Perk",
+            "Jeff"
+        ],
+        "requires": "|Aftercare|"
+    },
+    {
+        "name": "Victory - Distortion",
+        "category": [
+            "Perk",
+            "Jeff"
+        ],
+        "requires": "|Distortion|"
+    },
+    {
+        "name": "Victory - Jane Romero",
+        "category": [
+            "Surv",
+            "Jane"
+        ],
+        "requires": "|Jane Romero|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Jane Romero",
+        "category": [
+            "Jane",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Jane Romero Victory Token"
+        ],
+        "requires": "|Jane Romero|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Solidarity",
+        "category": [
+            "Perk",
+            "Jane"
+        ],
+        "requires": "|Solidarity|"
+    },
+    {
+        "name": "Victory - Poised",
+        "category": [
+            "Perk",
+            "Jane"
+        ],
+        "requires": "|Poised|"
+    },
+    {
+        "name": "Victory - Head on",
+        "category": [
+            "Perk",
+            "Jane"
+        ],
+        "requires": "|Head on|"
+    },
+    {
+        "name": "Victory - Ashley J Williams",
+        "category": [
+            "Surv",
+            "Ash"
+        ],
+        "requires": "|Ashley J Williams|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Ashley J Williams",
+        "category": [
+            "Ash",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Ashley J Williams Victory Token"
+        ],
+        "requires": "|Ashley J Williams|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Flip-flop",
+        "category": [
+            "Perk",
+            "Ash"
+        ],
+        "requires": "|Flip-flop|"
+    },
+    {
+        "name": "Victory - Buckle up",
+        "category": [
+            "Perk",
+            "Ash"
+        ],
+        "requires": "|Buckle up|"
+    },
+    {
+        "name": "Victory - Mettle of Man",
+        "category": [
+            "Perk",
+            "Ash"
+        ],
+        "requires": "|Mettle of Man|"
+    },
+    {
+        "name": "Victory - Nancy Wheeler",
+        "category": [
+            "Surv",
+            "Nancy"
+        ],
+        "requires": "|Nancy Wheeler|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Nancy Wheeler",
+        "category": [
+            "Nancy",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Nancy Wheeler Victory Token"
+        ],
+        "requires": "|Nancy Wheeler|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Better Together",
+        "category": [
+            "Perk",
+            "Nancy"
+        ],
+        "requires": "|Better Together|"
+    },
+    {
+        "name": "Victory - Fixated",
+        "category": [
+            "Perk",
+            "Nancy"
+        ],
+        "requires": "|Fixated|"
+    },
+    {
+        "name": "Victory - Inner Strength",
+        "category": [
+            "Perk",
+            "Nancy"
+        ],
+        "requires": "|Inner Strength|"
+    },
+    {
+        "name": "Victory - Steve Harrington",
+        "category": [
+            "Surv",
+            "Steve"
+        ],
+        "requires": "|Steve Harrington|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Steve Harrington",
+        "category": [
+            "Steve",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Steve Harrington Victory Token"
+        ],
+        "requires": "|Steve Harrington|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Camaraderie",
+        "category": [
+            "Perk",
+            "Steve"
+        ],
+        "requires": "|Camaraderie|"
+    },
+    {
+        "name": "Victory - Second Wind",
+        "category": [
+            "Perk",
+            "Steve"
+        ],
+        "requires": "|Second Wind|"
+    },
+    {
+        "name": "Victory - Babysitter",
+        "category": [
+            "Perk",
+            "Steve"
+        ],
+        "requires": "|Babysitter|"
+    },
+    {
+        "name": "Victory - Yui Kimura",
+        "category": [
+            "Surv",
+            "Yui"
+        ],
+        "requires": "|Yui Kimura|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Yui Kimura",
+        "category": [
+            "Yui",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Yui Kimura Victory Token"
+        ],
+        "requires": "|Yui Kimura|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Lucky Break",
+        "category": [
+            "Perk",
+            "Yui"
+        ],
+        "requires": "|Lucky Break|"
+    },
+    {
+        "name": "Victory - Any Means Necessary",
+        "category": [
+            "Perk",
+            "Yui"
+        ],
+        "requires": "|Any Means Necessary|"
+    },
+    {
+        "name": "Victory - Breakout",
+        "category": [
+            "Perk",
+            "Yui"
+        ],
+        "requires": "|Breakout|"
+    },
+    {
+        "name": "Victory - Zarina Kassir",
+        "category": [
+            "Surv",
+            "Zarina"
+        ],
+        "requires": "|Zarina Kassir|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Zarina Kassir",
+        "category": [
+            "Zarina",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Zarina Kassir Victory Token"
+        ],
+        "requires": "|Zarina Kassir|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Off the Record",
+        "category": [
+            "Perk",
+            "Zarina"
+        ],
+        "requires": "|Off the Record|"
+    },
+    {
+        "name": "Victory - Red Herring",
+        "category": [
+            "Perk",
+            "Zarina"
+        ],
+        "requires": "|Red Herring|"
+    },
+    {
+        "name": "Victory - For the People",
+        "category": [
+            "Perk",
+            "Zarina"
+        ],
+        "requires": "|For the People|"
+    },
+    {
+        "name": "Victory - Cheryl Mason",
+        "category": [
+            "Surv",
+            "Cheryl"
+        ],
+        "requires": "|Cheryl Mason|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Cheryl Mason",
+        "category": [
+            "Cheryl",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Cheryl Mason Victory Token"
+        ],
+        "requires": "|Cheryl Mason|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Soul Guard",
+        "category": [
+            "Perk",
+            "Cheryl"
+        ],
+        "requires": "|Soul Guard|"
+    },
+    {
+        "name": "Victory - Blood Pact",
+        "category": [
+            "Perk",
+            "Cheryl"
+        ],
+        "requires": "|Blood Pact|"
+    },
+    {
+        "name": "Victory - Repressed Alliance",
+        "category": [
+            "Perk",
+            "Cheryl"
+        ],
+        "requires": "|Repressed Alliance|"
+    },
+    {
+        "name": "Victory - Felix Richter",
+        "category": [
+            "Surv",
+            "Felix"
+        ],
+        "requires": "|Felix Richter|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Felix Richter",
+        "category": [
+            "Felix",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Felix Richter Victory Token"
+        ],
+        "requires": "|Felix Richter|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Visionary",
+        "category": [
+            "Perk",
+            "Felix"
+        ],
+        "requires": "|Visionary|"
+    },
+    {
+        "name": "Victory - Desperate Measures",
+        "category": [
+            "Perk",
+            "Felix"
+        ],
+        "requires": "|Desperate Measures|"
+    },
+    {
+        "name": "Victory - Built to Last",
+        "category": [
+            "Perk",
+            "Felix"
+        ],
+        "requires": "|Built to Last|"
+    },
+    {
+        "name": "Victory - Elodie Rakoto",
+        "category": [
+            "Surv",
+            "Elodie"
+        ],
+        "requires": "|Elodie Rakoto|",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Elodie Rakoto",
+        "category": [
+            "Elodie",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Elodie Rakoto Victory Token"
+        ],
+        "requires": "|Elodie Rakoto|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Appraisal",
+        "category": [
+            "Perk",
+            "Elodie"
+        ],
+        "requires": "|Appraisal|"
+    },
+    {
+        "name": "Victory - Deception",
+        "category": [
+            "Perk",
+            "Elodie"
+        ],
+        "requires": "|Deception|"
+    },
+    {
+        "name": "Victory - Power Struggle",
+        "category": [
+            "Perk",
+            "Elodie"
+        ],
+        "requires": "|Power Struggle|"
+    },
+    {
+        "category": [
+            "Surv",
+            "Yun-Jin"
+        ],
+        "requires": "|Yun-Jin Lee|",
+        "name": "Victory - Yun-Jin Lee",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Yun-Jin Lee",
+        "category": [
+            "Yun-Jin",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Yun-Jin Lee Victory Token"
+        ],
+        "requires": "|Yun-Jin Lee|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Yun-Jin"
+        ],
+        "requires": "|Fast Track|",
+        "name": "Victory - Fast Track"
+    },
+    {
+        "category": [
+            "Perk",
+            "Yun-Jin"
+        ],
+        "requires": "|Smash Hit|",
+        "name": "Victory - Smash Hit"
+    },
+    {
+        "category": [
+            "Perk",
+            "Yun-Jin"
+        ],
+        "requires": "|Self-preservation|",
+        "name": "Victory - Self-preservation"
+    },
+    {
+        "category": [
+            "Perk",
+            "Jill"
+        ],
+        "requires": "|Counterforce|",
+        "name": "Victory - Counterforce"
+    },
+    {
+        "category": [
+            "Surv",
+            "Jill"
+        ],
+        "requires": "|Jill Valentine|",
+        "name": "Victory - Jill Valentine",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Jill Valentine",
+        "category": [
+            "Jill",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Jill Valentine Victory Token"
+        ],
+        "requires": "|Jill Valentine|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Jill"
+        ],
+        "requires": "|Blast Mine|",
+        "name": "Victory - Blast Mine"
+    },
+    {
+        "category": [
+            "Perk",
+            "Jill"
+        ],
+        "requires": "|Resurgence|",
+        "name": "Victory - Resurgence"
+    },
+    {
+        "category": [
+            "Surv",
+            "Leon"
+        ],
+        "requires": "|Leon S Kennedy|",
+        "name": "Victory - Leon S Kennedy",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Leon S Kennedy",
+        "category": [
+            "Leon",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Leon S Kennedy Victory Token"
+        ],
+        "requires": "|Leon S Kennedy|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Leon"
+        ],
+        "requires": "|Bite the Bullet|",
+        "name": "Victory - Bite the Bullet"
+    },
+    {
+        "category": [
+            "Perk",
+            "Leon"
+        ],
+        "requires": "|Flashbang|",
+        "name": "Victory - Flashbang"
+    },
+    {
+        "category": [
+            "Perk",
+            "Leon"
+        ],
+        "requires": "|Rookie Spirit|",
+        "name": "Victory - Rookie Spirit"
+    },
+    {
+        "category": [
+            "Surv",
+            "Mikaela"
+        ],
+        "requires": "|Mikaela Reid|",
+        "name": "Victory - Mikaela Reid",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Mikaela Reid",
+        "category": [
+            "Mikaela",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Mikaela Reid Victory Token"
+        ],
+        "requires": "|Mikaela Reid|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Mikaela"
+        ],
+        "requires": "|Clairvoyance|",
+        "name": "Victory - Clairvoyance"
+    },
+    {
+        "category": [
+            "Perk",
+            "Mikaela"
+        ],
+        "requires": "|Boon Circle of Healing|",
+        "name": "Victory - Boon Circle of Healing"
+    },
+    {
+        "category": [
+            "Perk",
+            "Mikaela"
+        ],
+        "requires": "|Boon Shadow Step|",
+        "name": "Victory - Boon Shadow Step"
+    },
+    {
+        "category": [
+            "Surv",
+            "Jonah"
+        ],
+        "requires": "|Jonah Vasquez|",
+        "name": "Victory - Jonah Vasquez",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Jonah Vasquez",
+        "category": [
+            "Jonah",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Jonah Vasquez Victory Token"
+        ],
+        "requires": "|Jonah Vasquez|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Jonah"
+        ],
+        "requires": "|Overcome|",
+        "name": "Victory - Overcome"
+    },
+    {
+        "category": [
+            "Perk",
+            "Jonah"
+        ],
+        "requires": "|Corrective Action|",
+        "name": "Victory - Corrective Action"
+    },
+    {
+        "category": [
+            "Perk",
+            "Jonah"
+        ],
+        "requires": "|Boon Exponential|",
+        "name": "Victory - Boon Exponential"
+    },
+    {
+        "category": [
+            "Surv",
+            "Yoichi"
+        ],
+        "requires": "|Yoichi Asakawa|",
+        "name": "Victory - Yoichi Asakawa",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Yoichi Asakawa",
+        "category": [
+            "Yoichi",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Yoichi Asakawa Victory Token"
+        ],
+        "requires": "|Yoichi Asakawa|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Yoichi"
+        ],
+        "requires": "|Parental Guidance|",
+        "name": "Victory - Parental Guidance"
+    },
+    {
+        "category": [
+            "Perk",
+            "Yoichi"
+        ],
+        "requires": "|Empathic Connection|",
+        "name": "Victory - Empathic Connection"
+    },
+    {
+        "category": [
+            "Perk",
+            "Yoichi"
+        ],
+        "requires": "|Boon Dark Theory|",
+        "name": "Victory - Boon Dark Theory"
+    },
+    {
+        "category": [
+            "Surv",
+            "Haddie"
+        ],
+        "requires": "|Haddie Kaur|",
+        "name": "Victory - Haddie Kaur",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Haddie Kaur",
+        "category": [
+            "Haddie",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Haddie Kaur Victory Token"
+        ],
+        "requires": "|Haddie Kaur|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Haddie"
+        ],
+        "requires": "|Inner Focus|",
+        "name": "Victory - Inner Focus"
+    },
+    {
+        "category": [
+            "Perk",
+            "Haddie"
+        ],
+        "requires": "|Overzealous|",
+        "name": "Victory - Overzealous"
+    },
+    {
+        "category": [
+            "Perk",
+            "Haddie"
+        ],
+        "requires": "|Residual Manifest|",
+        "name": "Victory - Residual Manifest"
+    },
+    {
+        "category": [
+            "Surv",
+            "Ada"
+        ],
+        "requires": "|Ada Wong|",
+        "name": "Victory - Ada Wong",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Ada Wong",
+        "category": [
+            "Ada",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Ada Wong Victory Token"
+        ],
+        "requires": "|Ada Wong|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Ada"
+        ],
+        "requires": "|Wiretap|",
+        "name": "Victory - Wiretap"
+    },
+    {
+        "category": [
+            "Perk",
+            "Ada"
+        ],
+        "requires": "|Reactive Healing|",
+        "name": "Victory - Reactive Healing"
+    },
+    {
+        "category": [
+            "Perk",
+            "Ada"
+        ],
+        "requires": "|Low Profile|",
+        "name": "Victory - Low Profile"
+    },
+    {
+        "category": [
+            "Surv",
+            "Rebecca"
+        ],
+        "requires": "|Rebecca Chambers|",
+        "name": "Victory - Rebecca Chambers",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Rebecca Chambers",
+        "category": [
+            "Rebecca",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Rebecca Chambers Victory Token"
+        ],
+        "requires": "|Rebecca Chambers|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Rebecca"
+        ],
+        "requires": "|Better than New|",
+        "name": "Victory - Better than New"
+    },
+    {
+        "category": [
+            "Perk",
+            "Rebecca"
+        ],
+        "requires": "|Reassurance|",
+        "name": "Victory - Reassurance"
+    },
+    {
+        "category": [
+            "Perk",
+            "Rebecca"
+        ],
+        "requires": "|Hyperfocus|",
+        "name": "Victory - Hyperfocus"
+    },
+    {
+        "category": [
+            "Surv",
+            "Vittorio"
+        ],
+        "requires": "|Vittorio Toscano|",
+        "name": "Victory - Vittorio Toscano",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Vittorio Toscano",
+        "category": [
+            "Vittorio",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Vittorio Toscano Victory Token"
+        ],
+        "requires": "|Vittorio Toscano|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Vittorio"
+        ],
+        "requires": "|Potential Energy|",
+        "name": "Victory - Potential Energy"
+    },
+    {
+        "category": [
+            "Perk",
+            "Vittorio"
+        ],
+        "requires": "|Fogwise|",
+        "name": "Victory - Fogwise"
+    },
+    {
+        "category": [
+            "Perk",
+            "Vittorio"
+        ],
+        "requires": "|Quick Gambit|",
+        "name": "Victory - Quick Gambit"
+    },
+    {
+        "category": [
+            "Surv",
+            "Thalita"
+        ],
+        "requires": "|Thalita Lyra|",
+        "name": "Victory - Thalita Lyra",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Thalita Lyra",
+        "category": [
+            "Thalita",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Thalita Lyra Victory Token"
+        ],
+        "requires": "|Thalita Lyra|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Thalita"
+        ],
+        "requires": "|Cut Loose|",
+        "name": "Victory - Cut Loose"
+    },
+    {
+        "category": [
+            "Perk",
+            "Thalita"
+        ],
+        "requires": "|Friendly Competition|",
+        "name": "Victory - Friendly Competition"
+    },
+    {
+        "category": [
+            "Perk",
+            "Thalita"
+        ],
+        "requires": "|Teamwork Power of Two|",
+        "name": "Victory - Teamwork Power of Two"
+    },
+    {
+        "category": [
+            "Surv",
+            "Renato"
+        ],
+        "requires": "|Renato Lyra|",
+        "name": "Victory - Renato Lyra",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Renato Lyra",
+        "category": [
+            "Renato",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Renato Lyra Victory Token"
+        ],
+        "requires": "|Renato Lyra|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Renato"
+        ],
+        "requires": "|Background Player|",
+        "name": "Victory - Background Player"
+    },
+    {
+        "category": [
+            "Perk",
+            "Renato"
+        ],
+        "requires": "|Blood Rush|",
+        "name": "Victory - Blood Rush"
+    },
+    {
+        "category": [
+            "Perk",
+            "Renato"
+        ],
+        "requires": "|Teamwork Collective Stealth|",
+        "name": "Victory - Teamwork Collective Stealth"
+    },
+    {
+        "category": [
+            "Surv",
+            "Cage"
+        ],
+        "requires": "|Nicolas Cage|",
+        "name": "Victory - Nicolas Cage",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Nicolas Cage",
+        "category": [
+            "Cage",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Nicolas Cage Victory Token"
+        ],
+        "requires": "|Nicolas Cage|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Cage"
+        ],
+        "requires": "|Dramaturgy|",
+        "name": "Victory - Dramaturgy"
+    },
+    {
+        "category": [
+            "Perk",
+            "Cage"
+        ],
+        "requires": "|Scene Partner|",
+        "name": "Victory - Scene Partner"
+    },
+    {
+        "category": [
+            "Perk",
+            "Cage"
+        ],
+        "requires": "|Plot Twist|",
+        "name": "Victory - Plot Twist"
+    },
+    {
+        "category": [
+            "Surv",
+            "Ripley"
+        ],
+        "requires": "|Ellen Ripley|",
+        "name": "Victory - Ellen Ripley",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Ellen Ripley",
+        "category": [
+            "Ripley",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Ellen Ripley Victory Token"
+        ],
+        "requires": "|Ellen Ripley|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Ripley"
+        ],
+        "requires": "|Lucky Star|",
+        "name": "Victory - Lucky Star"
+    },
+    {
+        "category": [
+            "Perk",
+            "Ripley"
+        ],
+        "requires": "|Chemical Trap|",
+        "name": "Victory - Chemical Trap"
+    },
+    {
+        "category": [
+            "Perk",
+            "Ripley"
+        ],
+        "requires": "|Light-footed|",
+        "name": "Victory - Light-footed"
+    },
+    {
+        "category": [
+            "Surv",
+            "Alan"
+        ],
+        "requires": "|Alan Wake|",
+        "name": "Victory - Alan Wake",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Alan Wake",
+        "category": [
+            "Alan",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Alan Wake Victory Token"
+        ],
+        "requires": "|Alan Wake|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Alan"
+        ],
+        "requires": "|Champion of Light|",
+        "name": "Victory - Champion of Light"
+    },
+    {
+        "category": [
+            "Perk",
+            "Alan"
+        ],
+        "requires": "|Boon Illumination|",
+        "name": "Victory - Boon Illumination"
+    },
+    {
+        "category": [
+            "Perk",
+            "Alan"
+        ],
+        "requires": "|Deadline|",
+        "name": "Victory - Deadline"
+    },
+    {
+        "category": [
+            "Surv",
+            "Trevor"
+        ],
+        "requires": "|Trevor Belmont|",
+        "name": "Victory - Trevor Belmont",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Trevor Belmont",
+        "category": [
+            "Trevor",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Trevor Belmont Victory Token"
+        ],
+        "requires": "|Trevor Belmont|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Trevor"
+        ],
+        "requires": "|Eyes of Belmont|",
+        "name": "Victory - Eyes of Belmont"
+    },
+    {
+        "category": [
+            "Perk",
+            "Trevor"
+        ],
+        "requires": "|Exultation|",
+        "name": "Victory - Exultation"
+    },
+    {
+        "category": [
+            "Perk",
+            "Trevor"
+        ],
+        "requires": "|Moment of Glory|",
+        "name": "Victory - Moment of Glory"
+    },
+    {
+        "category": [
+            "Surv",
+            "Lara"
+        ],
+        "requires": "|Lara Croft|",
+        "name": "Victory - Lara Croft",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Lara Croft",
+        "category": [
+            "Lara",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Lara Croft Victory Token"
+        ],
+        "requires": "|Lara Croft|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Lara"
+        ],
+        "requires": "|Finesse|",
+        "name": "Victory - Finesse"
+    },
+    {
+        "category": [
+            "Perk",
+            "Lara"
+        ],
+        "requires": "|Specialist|",
+        "name": "Victory - Specialist"
+    },
+    {
+        "category": [
+            "Perk",
+            "Lara"
+        ],
+        "requires": "|Hardened|",
+        "name": "Victory - Hardened"
+    },
+    {
+        "category": [
+            "Surv",
+            "Aestri"
+        ],
+        "requires": "|Aestri Yazar|",
+        "name": "Victory - Aestri Yazar",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Aestri Yazar",
+        "category": [
+            "Aestri",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Aestri Yazar Victory Token"
+        ],
+        "requires": "|Aestri Yazar|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Aestri"
+        ],
+        "requires": "|Mirrored Illusion|",
+        "name": "Victory - Mirrored Illusion"
+    },
+    {
+        "category": [
+            "Perk",
+            "Aestri"
+        ],
+        "requires": "|Bardic Inspiration|",
+        "name": "Victory - Bardic Inspiration"
+    },
+    {
+        "category": [
+            "Perk",
+            "Aestri"
+        ],
+        "requires": "|Still Sight|",
+        "name": "Victory - Still Sight"
+    },
+    {
+        "category": [
+            "Surv",
+            "Sable"
+        ],
+        "requires": "|Sable Ward|",
+        "name": "Victory - Sable Ward",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Sable Ward",
+        "category": [
+            "Sable",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Sable Ward Victory Token"
+        ],
+        "requires": "|Sable Ward|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Sable"
+        ],
+        "requires": "|Invocation Weaving Spiders|",
+        "name": "Victory - Invocation Weaving Spiders"
+    },
+    {
+        "category": [
+            "Perk",
+            "Sable"
+        ],
+        "requires": "|Strength in Shadows|",
+        "name": "Victory - Strength in Shadows"
+    },
+    {
+        "category": [
+            "Perk",
+            "Sable"
+        ],
+        "requires": "|Wicked|",
+        "name": "Victory - Wicked"
+    },
+    {
+        "category": [
+            "Surv",
+            "Gabriel"
+        ],
+        "requires": "|Gabriel Soma|",
+        "name": "Victory - Gabriel Soma",
+        "victory": false
+    },
+    {
+        "name": "Victory Token - Gabriel Soma",
+        "category": [
+            "Gabriel",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Gabriel Soma Victory Token"
+        ],
+        "requires": "|Gabriel Soma|",
+        "victory": false
+    },
+    {
+        "category": [
+            "Perk",
+            "Gabriel"
+        ],
+        "requires": "|Troubleshooter|",
+        "name": "Victory - Troubleshooter"
+    },
+    {
+        "category": [
+            "Perk",
+            "Gabriel"
+        ],
+        "requires": "|Made for this|",
+        "name": "Victory - Made for this"
+    },
+    {
+        "category": [
+            "Perk",
+            "Gabriel"
+        ],
+        "requires": "|Scavenger|",
+        "name": "Victory - Scavenger"
+    },
+    {
+        "name": "Finish repairing a generator",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Hit a great skill check during repair",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Safely unhook another survivor",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Sabotage a hook",
+        "category": [
+            "Missions"
+        ],
+        "requires": "(|Progressive Toolbox| OR |Saboteur|)"
+    },
+    {
+        "name": "Escape through the hatch",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Open the hatch with a key",
+        "category": [
+            "Missions"
+        ],
+        "requires": "|Progressive Key:2|"
+    },
+    {
+        "name": "Escape through the exit gates",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Open an exit gate",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Escape a chase",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Blind the killer",
+        "category": [
+            "Missions"
+        ],
+        "requires": "(|Progressive Flashlight| OR |Flashbang| OR |Blast Mine|)"
+    },
+    {
+        "name": "Enter a locker",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Escape a chase by entering a locker",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Drop a pallet",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Stun the killer with a pallet",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Vault a window",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Force the entity to block a window",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Cleanse a totem",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Cleanse a hex totem",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Bless a totem",
+        "category": [
+            "Missions"
+        ],
+        "requires": 
+"(|Boon Circle of Healing| OR |Boon Shadow Step| OR |Boon Exponential| OR |Boon Dark Theory| OR |Boon Illumination|)"
+    },
+    {
+        "name": "Open a chest",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Open the chest in the basement",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Startle a crow",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Heal another survivor",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Hit a great skill check while healing another survivor",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Unhook yourself",
+        "category": [
+            "Missions"
+        ],
+        "requires": "(|Deliverance| OR |Slippery Meat| AND |Up the Ante|)"
+    },
+    {
+        "name": "Have the killer miss you",
+        "category": [
+            "Missions"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Wiggle off the killer",
+        "category": [
+            "Missions"
+        ],
+        "requires": "(|Decisive Strike| OR |Flip-flop| AND |Unbreakable| AND |No Mither| AND |Boil Over| OR |Flip-flop| AND |Power Struggle|"
+    },
+    {
+        "name": "Victory - Dark Sense",
+        "category": [
+            "Base Perk",
+            "Perk"
+        ],
+        "requires": "|Dark Sense|"
+    },
+    {
+        "name": "Victory - Deja vu",
+        "category": [
+            "Base Perk",
+            "Perk"
+        ],
+        "requires": "|Deja vu|"
+    },
+    {
+        "name": "Victory - Hope",
+        "category": [
+            "Base Perk",
+            "Perk"
+        ],
+        "requires": "|Hope|"
+    },
+    {
+        "name": "Victory - Kindred",
+        "category": [
+            "Base Perk",
+            "Perk"
+        ],
+        "requires": "|Kindred|"
+    },
+    {
+        "name": "Victory - Lightweight",
+        "category": [
+            "Base Perk",
+            "Perk"
+        ],
+        "requires": "|Lightweight|"
+    },
+    {
+        "name": "Victory - No One Left Behind",
+        "category": [
+            "Base Perk",
+            "Perk"
+        ],
+        "requires": "|No One Left Behind|"
+    },
+    {
+        "name": "Victory - Plunderer's Instinct",
+        "category": [
+            "Base Perk",
+            "Perk"
+        ],
+        "requires": "|Plunderer's Instinct|"
+    },
+    {
+        "name": "Victory - Premonition",
+        "category": [
+            "Base Perk",
+            "Perk"
+        ],
+        "requires": "|Premonition|"
+    },
+    {
+        "name": "Victory - Resilience",
+        "category": [
+            "Base Perk",
+            "Perk"
+        ],
+        "requires": "|Resilience|"
+    },
+    {
+        "name": "Victory - Slippery Meat",
+        "category": [
+            "Base Perk",
+            "Perk"
+        ],
+        "requires": "|Slippery Meat|"
+    },
+    {
+        "name": "Victory - Small Game",
+        "category": [
+            "Base Perk",
+            "Perk"
+        ],
+        "requires": "|Small Game|"
+    },
+    {
+        "name": "Victory - Spine Chill",
+        "category": [
+            "Base Perk",
+            "Perk"
+        ],
+        "requires": "|Spine Chill|"
+    },
+    {
+        "name": "Victory - This is not Happening",
+        "category": [
+            "Base Perk",
+            "Perk"
+        ],
+        "requires": "|This is not Happening|"
+    },
+    {
+        "name": "Victory - We'll Make it",
+        "category": [
+            "Base Perk",
+            "Perk"
+        ],
+        "requires": "|We'll Make it|"
+    },
+    {
+        "name": "(Seed Terminee) The entity is hungry",
+        "victory": true,
+        "category": [
+            "Victory"
+        ],
+    "requires": "{SurvReq()}"
+    },
+    {
+        "name": "Victory - Invocation Treacherous Crows",
+        "category": [
+            "Perk",
+            "Taurie"
+        ],
+        "requires": "|Invocation Treacherous Crows|"
+    },
+    {
+        "name": "Victory - Taurie Cain",
+        "category": [
+            "Surv",
+            "Taurie"
+        ],
+        "requires": "|Taurie Cain|"
+    },
+    {
+        "name": "Victory Token - Taurie Cain",
+        "category": [
+            "Taurie",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Taurie Cain Victory Token"
+        ],
+        "requires": "|Taurie Cain|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Orela Rose",
+        "category": [
+            "Surv",
+            "Orela"
+        ],
+        "requires": "|Orela Rose|"
+    },
+    {
+        "name": "Victory Token - Orela Rose",
+        "category": [
+            "Orela",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Orela Rose Victory Token"
+        ],
+        "requires": "|Orela Rose|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Rapid Response",
+        "category": [
+            "Perk",
+            "Orela"
+        ],
+        "requires": "|Rapid Response|"
+    },
+    {
+        "name": "Victory - Do No Harm",
+        "category": [
+            "Perk",
+            "Orela"
+        ],
+        "requires": "|Do No Harm|"
+    },
+    {
+        "name": "Victory - Duty of Care",
+        "category": [
+            "Perk",
+            "Orela"
+        ],
+        "requires": "|Duty of Care|"
+    },
+    {
+        "name": "Victory - Shoulder the Burden",
+        "category": [
+            "Perk",
+            "Taurie"
+        ],
+        "requires": "|Shoulder the Burden|"
+    },
+    {
+        "name": "Victory - Clean Break",
+        "category": [
+            "Perk",
+            "Taurie"
+        ],
+        "requires": "|Clean Break|"
+    },
+    {
+        "name": "Victory - Michonne Grimes",
+        "category": [
+            "Michonne",
+            "Surv"
+        ],
+        "requires": "|Michonne Grimes|"
+    },
+    {
+        "name": "Victory Token - Michonne Grimes",
+        "category": [
+            "Michonne",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Michonne Grimes Victory Token"
+        ],
+        "requires": "|Michonne Grimes|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Conviction",
+        "category": [
+            "Michonne",
+            "Perk"
+        ],
+        "requires": "|Conviction|"
+    },
+    {
+        "name": "Victory - Last Stand",
+        "category": [
+            "Michonne",
+            "Perk"
+        ],
+        "requires": "|Last Stand|"
+    },
+    {
+        "name": "Victory - Teamwork Throw Down",
+        "category": [
+            "Michonne",
+            "Perk"
+        ],
+        "requires": "|Teamwork Throw Down|"
+    },
+    {
+        "name": "Victory - Rick Grimes",
+        "category": [
+            "Rick",
+            "Surv"
+        ],
+        "requires": "|Rick Grimes|"
+    },
+    {
+        "name": "Victory Token - Rick Grimes",
+        "category": [
+            "Rick",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Rick Grimes Victory Token"
+        ],
+        "requires": "|Rick Grimes|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Apocalyptic Ingenuity",
+        "category": [
+            "Rick",
+            "Perk"
+        ],
+        "requires": "|Apocalyptic Ingenuity|"
+    },
+    {
+        "name": "Victory - Come and Get Me !",
+        "category": [
+            "Rick",
+            "Perk"
+        ],
+        "requires": "|Come and Get Me !|"
+    },
+    {
+        "name": "Victory - Teamwork Toughen Up",
+        "category": [
+            "Rick",
+            "Perk"
+        ],
+        "requires": "|Teamwork Toughen Up|"
+    },
+    {
+        "name": "Victory - Road Life",
+        "category": [
+            "Vee",
+            "Perk"
+        ],
+        "requires": "|Road Life|"
+    },
+    {
+        "name": "Victory - One-Two-Three-Four!",
+        "category": [
+            "Vee",
+            "Perk"
+        ],
+        "requires": "|One-Two-Three-Four!|"
+    },
+    {
+        "name": "Victory - Ghost Notes",
+        "category": [
+            "Vee",
+            "Perk"
+        ],
+        "requires": "|Ghost Notes|"
+    },
+    {
+        "name": "Victory - Vee Boonyasak",
+        "category": [
+            "Vee",
+            "Surv"
+        ],
+        "requires": "|Vee Boonyasak|"
+    },
+    {
+        "name": "Victory Token - Vee Boonyasak",
+        "category": [
+            "Vee",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Vee Boonyasak Victory Token"
+        ],
+        "requires": "|Vee Boonyasak|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Bada Bada Boom",
+        "category": [
+            "Dustin",
+            "Perk"
+        ],
+        "requires": "|Bada Bada Boom|"
+    },
+    {
+        "name": "Victory - Change of Plan",
+        "category": [
+            "Dustin",
+            "Perk"
+        ],
+        "requires": "|Change of Plan|"
+    },
+    {
+        "name": "Victory - Teamwork Full Circuit",
+        "category": [
+            "Dustin",
+            "Perk"
+        ],
+        "requires": "|Teamwork Full Circuit|"
+    },
+    {
+        "name": "Victory - Dustin Henderson",
+        "category": [
+            "Dustin",
+            "Surv"
+        ],
+        "requires": "|Dustin Henderson|"
+    },
+    {
+        "name": "Victory Token - Dustin Henderson",
+        "category": [
+            "Dustin",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Dustin Henderson Victory Token"
+        ],
+        "requires": "|Dustin Henderson|",
+        "victory": false
+    },
+    {
+        "name": "Victory - Extrasensory Perception",
+        "category": [
+            "Eleven",
+            "Perk"
+        ],
+        "requires": "|Extrasensory Perception|"
+    },
+    {
+        "name": "Victory - Teamwork Soft-Spoken",
+        "category": [
+            "Eleven",
+            "Perk"
+        ],
+        "requires": "|Teamwork Soft-Spoken|"
+    },
+    {
+        "name": "Victory - We See You",
+        "category": [
+            "Eleven",
+            "Perk"
+        ],
+        "requires": "|Teamwork Soft-Spoken|"
+    },
+    {
+        "name": "Victory - Eleven",
+        "category": [
+            "Eleven",
+            "Surv"
+        ],
+        "requires": "|Eleven|"
+    },
+    {
+        "name": "Victory Token - Eleven",
+        "category": [
+            "Eleven",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Eleven Victory Token"
+        ],
+        "requires": "|Eleven|",
+        "victory": false
+    },
+    {
+        "name": "Victory - A Place For Us",
+        "category": [
+            "Kwon",
+            "Perk"
+        ],
+        "requires": "|A Place For Us|"
+    },
+    {
+        "name": "Victory - Flow State",
+        "category": [
+            "Kwon",
+            "Perk"
+        ],
+        "requires": "|Flow State|"
+    },
+    {
+        "name": "Victory - Five Moves Ahead",
+        "category": [
+            "Kwon",
+            "Perk"
+        ],
+        "requires": "|Teamwork Full Circuit|"
+    },
+    {
+        "name": "Victory - Kwon Tae-young",
+        "category": [
+            "Kwon",
+            "Surv"
+        ],
+        "requires": "|Kwon Tae-young|"
+    },
+    {
+        "name": "Victory Token - Kwon Tae-young",
+        "category": [
+            "Kwon",
+            "Victory Token"
+        ],
+        "place_item": [
+            "Kwon Tae-young Victory Token"
+        ],
+        "requires": "|Kwon Tae-young|",
+        "victory": false
+    }
+]

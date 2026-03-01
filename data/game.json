@@ -1,0 +1,20 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "DbDSurvEN",
+  "creator": "Wabadjakk",
+  "filler_item_name": "Salt",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Surv"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Perk"
+      ],
+      "random": 3
+    }
+  ]
+}

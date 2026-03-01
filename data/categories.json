@@ -1,0 +1,292 @@
+{
+  "Dwight": {
+    "yaml_option": [
+      "Dwight_Fairfield"
+    ]
+  },
+  "Meg": {
+    "yaml_option": [
+      "Meg_Thomas"
+    ]
+  },
+  "Claudette": {
+    "yaml_option": [
+      "Claudette_Morel"
+    ]
+  },
+  "Jake": {
+    "yaml_option": [
+      "Jake_Park"
+    ]
+  },
+  "Nea": {
+    "yaml_option": [
+      "Nea_Karlsson"
+    ]
+  },
+  "Bill": {
+    "yaml_option": [
+      "William_Bill_Overbeck"
+    ]
+  },
+  "David": {
+    "yaml_option": [
+      "David_King"
+    ]
+  },
+  "Laurie": {
+    "yaml_option": [
+      "Laurie_Strode"
+    ]
+  },
+  "Ace": {
+    "yaml_option": [
+      "Ace_Visconti"
+    ]
+  },
+  "Feng": {
+    "yaml_option": [
+      "Feng_Min"
+    ]
+  },
+  "Quentin": {
+    "yaml_option": [
+      "Quentin_Smith"
+    ]
+  },
+  "Tapp": {
+    "yaml_option": [
+      "Detective_Tapp"
+    ]
+  },
+  "Kate": {
+    "yaml_option": [
+      "Kate_Denson"
+    ]
+  },
+  "Adam": {
+    "yaml_option": [
+      "Adam_Francis"
+    ]
+  },
+  "Jeff": {
+    "yaml_option": [
+      "Jeff_Johansen"
+    ]
+  },
+  "Jane": {
+    "yaml_option": [
+      "Jane_Romero"
+    ]
+  },
+  "Ash": {
+    "yaml_option": [
+      "Ashley_Williams"
+    ]
+  },
+  "Nancy": {
+    "yaml_option": [
+      "Nancy_Wheeler"
+    ]
+  },
+  "Steve": {
+    "yaml_option": [
+      "Steve_Harrington"
+    ]
+  },
+  "Yui": {
+    "yaml_option": [
+      "Yui_Kimura"
+    ]
+  },
+  "Zarina": {
+    "yaml_option": [
+      "Zarina_Kassir"
+    ]
+  },
+  "Cheryl": {
+    "yaml_option": [
+      "Cheryl_Mason"
+    ]
+  },
+  "Felix": {
+    "yaml_option": [
+      "Felix_Richter"
+    ]
+  },
+  "Elodie": {
+    "yaml_option": [
+      "Elodie_Rakoto"
+    ]
+  },
+  "Yun-Jin": {
+    "yaml_option": [
+      "Yun_Jin_Lee"
+    ]
+  },
+  "Jill": {
+    "yaml_option": [
+      "Jill_Valentine"
+    ]
+  },
+  "Leon": {
+    "yaml_option": [
+      "Leon_S_Kennedy"
+    ]
+  },
+  "Mikaela": {
+    "yaml_option": [
+      "Mikaela_Reid"
+    ]
+  },
+  "Jonah": {
+    "yaml_option": [
+      "Jonah_Vasquez"
+    ]
+  },
+  "Yoichi": {
+    "yaml_option": [
+      "Yoichi_Asakawa"
+    ]
+  },
+  "Haddie": {
+    "yaml_option": [
+      "Haddie_Kaur"
+    ]
+  },
+  "Ada": {
+    "yaml_option": [
+      "Ada_Wong"
+    ]
+  },
+  "Rebecca": {
+    "yaml_option": [
+      "Rebecca_Chambers"
+    ]
+  },
+  "Vittorio": {
+    "yaml_option": [
+      "Vittorio_Toscano"
+    ]
+  },
+  "Thalita": {
+    "yaml_option": [
+      "Thalita_Lyra"
+    ]
+  },
+  "Renato": {
+    "yaml_option": [
+      "Renato_Lyra"
+    ]
+  },
+  "Gabriel": {
+    "yaml_option": [
+      "Gabriel_Soma"
+    ]
+  },
+  "Cage": {
+    "yaml_option": [
+      "Nicolas_Cage"
+    ]
+  },
+  "Ripley": {
+    "yaml_option": [
+      "Ellen_Ripley"
+    ]
+  },
+  "Alan": {
+    "yaml_option": [
+      "Alan_Wake"
+    ]
+  },
+  "Sable": {
+    "yaml_option": [
+      "Sable_Ward"
+    ]
+  },
+  "Aestri": {
+    "yaml_option": [
+      "Aestri_Yazar"
+    ]
+  },
+  "Lara": {
+    "yaml_option": [
+      "Lara_Croft"
+    ]
+  },
+  "Trevor": {
+    "yaml_option": [
+      "Trevor_Belmont"
+    ]
+  },
+  "Taurie": {
+    "yaml_option": [
+      "Taurie_Cain"
+    ]
+  },
+  "Rick": {
+    "yaml_option": [
+      "Rick_Grimes"
+    ]
+  },
+  "Michonne": {
+    "yaml_option": [
+      "Michonne_Grimes"
+    ]
+  },
+  "Orela": {
+    "yaml_option": [
+      "Orela_Rose"
+    ]
+  },
+  "Vee": {
+    "yaml_option": [
+      "Vee_Boonyasak"
+    ]
+  },
+  "Dustin": {
+    "yaml_option": [
+      "Dustin_Henderson"
+    ]
+  },
+  "Eleven": {
+    "yaml_option": [
+      "Eleven"
+    ]
+  },
+  "Kwon": {
+    "yaml_option": [
+      "Kwon_Tae_Young"
+    ]
+  },
+  "Missions": {
+    "yaml_option": [
+      "Missions"
+    ]
+  },
+  "Items": {
+    "yaml_option": [
+      "Items"
+    ]
+  },
+  "Add-ons": {
+    "yaml_option": [
+      "Add_ons"
+    ]
+  },
+  "Offerings": {
+    "yaml_option": [
+      "Offerings"
+    ]
+  },
+  "Perk": {
+    "yaml_option": [
+      "Perk"
+    ]
+  },
+  "Base Perk": {
+    "yaml_option": [
+      "Base_Perk"
+    ]
+  }
+}
